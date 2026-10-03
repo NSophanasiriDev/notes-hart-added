@@ -1,0 +1,1 @@
+git init für den start (noch nicht ins staging geraten oder git weiß noch nichts davon)
