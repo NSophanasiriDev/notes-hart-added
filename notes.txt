@@ -1,1 +1,3 @@
 git init für den start (noch nicht ins staging geraten oder git weiß noch nichts davon)
+git add <file>
+git commit -m "your commit message"
